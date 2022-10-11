@@ -1,0 +1,24 @@
+.home {
+	height: 100%;
+
+	.atAvatar-content {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		height: 20%;
+		.atAvatar {
+		}
+	}
+
+	.content {
+		border-radius: 50px 50px 0 0;
+		height: 80%;
+		background-color: #80a8f1;
+		overflow: hidden;
+
+		.login {
+			margin-top: 80%;
+			width: 50%;
+		}
+	}
+}
